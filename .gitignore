@@ -1,0 +1,95 @@
+frontend/.idea
+frontend/node_modules
+frontend/package.json
+frontend/package-lock.json
+frontend/.DS_Store
+
+/frontend/.idea
+/frontend/node_modules
+/frontend/package.json
+/frontend/package-lock.json
+/frontend/.DS_Store
+
+Kurzanleitung_Quizly.pdf
+/Kurzanleitung_Quizly.pdf
+
+# Python
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.so
+.Python
+
+# Virtual Environment
+.venv/
+env/
+.env/
+venv/
+ENV/
+
+*.log
+media/
+staticfiles/
+.env
+.env.local
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Test/coverage
+htmlcov/
+.coverage
+.coverage.*
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.pytest_cache/
+.pytest_cache
+
+# Node
+node_modules/
+
+# Misc
+*.bak
+*.swp
+*.tmp
+
+# Git
+*.orig
+
+# VsCode Settings
+.vscode/
+.idea/
+*.sublime-workspace
+
+backend/env/
+backend/venv/
+backend/ENV/
+backend/.venv/
+backend/.Python
+backend/.env
+backend/.venv
+backend/.cache/
+backend/.cache
+/backend/.cache/
+/backend/.cache
+
+cookies.txt
+secrets/
+*.cookies.txt
+youtube_cookies.txt
+
+backend/cookies.txt
+backend/secrets/
+backend/*.cookies.txt
+backend/youtube_cookies.txt
